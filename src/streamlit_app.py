@@ -42,7 +42,7 @@ st.title("Skin Lesion Classifier — CNN + ML Ensemble")
 
 uploaded = st.file_uploader("Upload a skin lesion image", type=["jpg", "jpeg", "png"])
 
-models_dir = "models"
+models_dir = "models_final"
 cnn_model_path = os.path.join(models_dir, "resnet18_fold0.pth")
 ensemble_path = os.path.join(models_dir, "final_ensemble.pkl")
 
