@@ -1,5 +1,8 @@
 # Skin Lesion Classification — CNN + Gradient-Boosting Stacking Pipeline
 
+### Deployed link for this project 
+https://skin-cancer-pred-sameer.streamlit.app/
+
 **What this repo contains**
 - An end-to-end template to build a hybrid deep-learning + classical-ML pipeline:
   - Fine-tune a CNN (ResNet-18) on skin lesion images (HAM10000).
