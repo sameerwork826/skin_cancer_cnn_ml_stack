@@ -1,0 +1,15 @@
+torch>=1.12
+torchvision
+scikit-learn
+pandas
+numpy
+Pillow
+tqdm
+streamlit
+xgboost
+lightgbm
+catboost
+joblib
+kaggle
+opencv-python
+ipykernel 

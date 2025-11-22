@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+models/
+data/
+.venv/
+*.pth
+*.pkl
+*.zip
+.kaggle
+catboost_info/

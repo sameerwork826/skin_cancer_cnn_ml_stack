@@ -1,0 +1,23 @@
+[project]
+name = "skin-cancer-cnn-ml-stack"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "catboost>=1.2.8",
+    "ipykernel>=7.1.0",
+    "joblib>=1.5.2",
+    "kaggle>=1.8.0",
+    "lightgbm>=4.6.0",
+    "numpy>=2.3.5",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.3",
+    "pillow>=12.0.0",
+    "scikit-learn>=1.7.2",
+    "streamlit>=1.51.0",
+    "torch>=1.12",
+    "torchvision>=0.24.1",
+    "tqdm>=4.67.1",
+    "xgboost>=3.1.2",
+]
